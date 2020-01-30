@@ -58,7 +58,7 @@ body{
 .cards{
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
     background-color: rgba(50, 50, 50, 0.25);
     width: 100%;
